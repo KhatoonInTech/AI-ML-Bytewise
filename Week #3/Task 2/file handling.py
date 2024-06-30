@@ -15,7 +15,7 @@ file="output.txt"
 #handling errors in file writing
 try:
    with open(file,"a") as f_write:
-      f_write.write(input(f"\nWrite your analysis on {filename} here:\n").splitlines())
+      f_write.write(input(f"\nWrite your analysis on {filename} here:\n"))
 except OSError or FileNotFoundError or PermissionError:
    print(f"\nSorry , you can't write in {file} .")
 
