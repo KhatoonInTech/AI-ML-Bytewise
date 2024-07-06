@@ -1,36 +1,38 @@
-** Project Name**: Inventory Management System (IMS)
--------------
+**Project Name**: 
+----------------
+   Inventory Management System (IMS)
+
 **Project Introduction**:
----------------------
+------------------------
 This project implements a basic inventory management system for food items. 
 It allows users to add, edit, delete, search, and display information about food items in a CSV file.
 
 **Tech Stack**:
 ----------------
-** Programming Language:** Python 3
+**Programming Language:** Python 3
 
- **Libraries**:
+ ** ibraries**:
 
 > **csv:** Used for reading from and writing to CSV files.
 > **datetime**: Used for working with dates.
 > **os**: Used for interacting with the operating system (error handling).
->** tabulate**: Used for creating formatted tables from data.
+>**tabulate**: Used for creating formatted tables from data.
 
-** Concepts**:
+**Concepts**:
 
 > **Object-Oriented Programming (OOP)**: Uses classes to represent food items and inventory management functionalities.
 > **File I/O:** Reads from and writes data to CSV files.
 > **Error Handling**: Handles potential errors that may occur during file operations or user input.
 
-** Key Features:
-**--------------
+ **Key Features:**
+--------------
 > **Add**__ food items to the inventory with details like name, category, quantity, price, barcode, and expiry date.
 >** Edit**__ existing food items in the inventory.
 > **Delete**__ food items from the inventory.
 >** Display**__ the entire inventory in a tabular format.
 > **Search**__ for food items based on various criteria like name, category, quantity, price, barcode, and expiry date.
 
-**How Does it Work?**
+ **How Does it Work?**
 --------------------
 1- The system uses a _CSV file_ to store inventory data.
 
