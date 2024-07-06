@@ -11,7 +11,7 @@ It allows users to add, edit, delete, search, and display information about food
 ----------------
 **Programming Language:** Python 3
 
- ** ibraries**:
+ **Libraries**:
 
 > **csv:** Used for reading from and writing to CSV files.
 > **datetime**: Used for working with dates.
