@@ -1,20 +1,12 @@
-
 # ***Report: Handwritten Number Classification***
----
 
-\
+---
 
 ## **Introduction**
 
-\
-
 The dataset utilized in this project is the MNIST dataset, which comprises 70,000 grayscale images of handwritten digits (0-9). This dataset is divided into a training set containing 60,000 images and a testing set with 10,000 images. Each image is represented as a 28x28 pixel matrix. The primary objective of this analysis is to develop a classification model capable of accurately predicting the digit represented in each image.
 
-\
-
 ## **Data Analysis and Visualization**
-
-\
 
 #### ***Exploratory Data Analysis (EDA) provided several key insights:***
 
@@ -23,10 +15,8 @@ The dataset utilized in this project is the MNIST dataset, which comprises 70,00
 - **Target Encoding**: The target labels were converted into a one-hot encoded format using OneHotEncoder, transforming categorical labels (digits 0-9) into a binary format suitable for multi-class classification. The training labels were reshaped to a 2D format, resulting in a shape of (60,000, 10).
 - **Visualization**: A sample image from the dataset was displayed using Matplotlib, confirming the clarity and structure of the data.
 
-\
-
 ## **Model Building**
-\
+
 ### **Model Architecture**
 
 The model was constructed using the Keras Sequential API, consisting of the following layers:
@@ -41,11 +31,7 @@ The model was compiled with the following parameters:
 
 The model was trained for 10 epochs on the training dataset, with the training process monitored through loss and accuracy metrics.
 
-\
-
 ## **Model Evaluation**
-
-\
 
 The model's performance was evaluated based on accuracy and loss metrics over the training epochs:
 - **Epoch 1**: Accuracy = 89.91%, Loss = 0.3485
@@ -61,12 +47,7 @@ The model's performance was evaluated based on accuracy and loss metrics over th
 
 The final model achieved a training accuracy of **99.56%**, indicating a strong performance in classifying handwritten digits. The training loss decreased consistently across epochs, demonstrating effective learning.
 
-
-\
-
 ## **Applications**
-
-\
 
 ### **Handwritten Digit Recognition**
 
@@ -86,12 +67,7 @@ In mobile apps, such a model can enhance note-taking applications by converting 
 
 By leveraging its robust classification capabilities, this neural network model demonstrates significant potential across various domains, enhancing automation, accuracy, and efficiency in processing handwritten data.
 
-
-\
-
 ## **Conclusion**
-
-\
 
 The classification model effectively learned to predict handwritten digits, achieving a final training accuracy of 99.56%. The architecture, including two hidden layers with ReLU activations and a softmax output layer, contributed significantly to the model's performance.
 
