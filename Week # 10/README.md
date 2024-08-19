@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> **Shakespeare Text Generation using RNN Models** </h1>
+  <h1> Shakespeare Text Generation using RNN Models </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/khatoonintech/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
