@@ -1,4 +1,19 @@
-# Shakespeare Text Generation using RNN Models
+<div align="center">
+  <h1> **Shakespeare Text Generation using RNN Models** </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/khatoonintech/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  
+
+<sub>Created by:
+<a href="https://www.linkedin.com/in/Khatoonintech/" target="_blank">Ayesha Noreen</a><br>
+<small> ByteWiseLtd Fellowship : Week 10 </small>
+</sub>
+
+</div>
+
+
+## **Introduction**
 
 This project implements various Recurrent Neural Network (RNN) architectures to generate Shakespeare-like text. It explores simple RNN, bidirectional RNN, and a hybrid CNN-RNN model for text generation.
 
