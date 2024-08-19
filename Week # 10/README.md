@@ -89,6 +89,4 @@ The README should include a brief summary of the results, comparing the performa
 
 <sub>Contributor:
 
-[Ayesha Noreen](https://www.linkedin.com/in/khatoonintech/)
-
 <a href="https://www.linkedin.com/in/Khatoonintech/" target="_blank">Ayesha Noreen</a><br>
