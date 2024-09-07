@@ -14,8 +14,11 @@
 
 [<< Jupyter Notebook](../Final_Project/Newswires_Classification_with_DNN,RNN,and_BERT.ipynb) | [ Requirements >>](../Final_Project/requirement.txt)
 
-![newswires](../Final_Project/images/news.png)
+<div align="center">
+ 
+  ![newswires](../images/news.png)
 
+</div>
 
 ## Overview
 
