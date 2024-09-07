@@ -13,8 +13,7 @@ This project focuses on classifying newswires into different categories using th
 - [Installation of Dependencies](#installation-of-dependencies)
 - [Running the Code](#running-the-code)
 - [Reproducing Results](#reproducing-results)
-- [Environment Variables](#environment-variables)
-- [Data](#data)
+- [Dataset](#dataset)
 - [Key Results](#key-results)
 - [License](#license)
 
@@ -109,11 +108,9 @@ To reproduce the results from the project, follow these steps:
 2. Run the Jupyter notebook by following the instructions in [Running the Code](#running-the-code).
 3. Ensure the dataset is correctly loaded as per the instructions in the notebook.
 
-## Environment Variables
 
-If the project requires specific environment variables for any external services (such as APIs), you can set them in your terminal or a `.env` file. However, this project does not appear to require any environment variables as per the documentation.
 
-## Data
+## Dataset
 
 The project uses the Reuters Newswires dataset, which contains:
 
@@ -132,12 +129,15 @@ The data is automatically downloaded from the Keras datasets API. No manual down
 
 ## Key Results
 
-- **Accuracy**: [Insert accuracy or key performance metrics]
-- **Confusion Matrix**: [Insert confusion matrix results]
-- **Other Results**: Precision, Recall, F1-score, etc.
+- **Accuracy**: 96.567%
+
 
 ## License
 
-This project is licensed under the [Insert License Name] License - see the [LICENSE](LICENSE) file for details.
-```
+This project is not licensed yet.
+
+## **Contact**
+For any issues or inquiries, please contact 
+- LinkedIn[https://www.linkedin.com/in/khatoonintech]
+- Email[ayeshanoreen092@gmail.com].
 
