@@ -12,9 +12,9 @@
 
 </div>
 
-[<< Jupyter Notebook](../Newswires_Classification_with_DNN,RNN,and_BERT.ipynb) | [ Requirements >>](../requirement.txt)
+[<< Jupyter Notebook](../Final_Project/Newswires_Classification_with_DNN,RNN,and_BERT.ipynb) | [ Requirements >>](../Final_Project/requirement.txt)
 
-![newswires](../images/news.png)
+![newswires](../Final_Project/images/news.png)
 
 
 ## Overview
