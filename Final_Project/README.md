@@ -1,5 +1,21 @@
+<div align="center">
+  <h1> Project Title: Newswires Classification</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/khatoonintech/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  
 
-# Project Title: Newswires Classification
+<sub>Project by:
+<a href="https://www.linkedin.com/in/Khatoonintech/" target="_blank">Ayesha Noreen</a><br>
+<small> Final Project @ByteWise </small>
+</sub>
+
+</div>
+
+[<< Jupyter Notebook](../Newswires_Classification_with_DNN,RNN,and_BERT.ipynb) | [ Requirements >>](../requirement.txt)
+
+![newswires](../images/news.png)
+
 
 ## Overview
 
