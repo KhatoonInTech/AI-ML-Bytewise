@@ -16,7 +16,7 @@
 
 <div align="center">
  
-  ![newswires](../images/news.png)
+  ![newswires](../Final_Project/images/news.png)
 
 </div>
 
