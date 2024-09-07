@@ -138,6 +138,6 @@ This project is not licensed yet.
 
 ## **Contact**
 For any issues or inquiries, please contact 
-- LinkedIn[https://www.linkedin.com/in/khatoonintech]
-- Email[ayeshanoreen092@gmail.com].
+- [LinkedIn](https://www.linkedin.com/in/khatoonintech)
+- [Email](ayeshanoreen092@gmail.com)
 
