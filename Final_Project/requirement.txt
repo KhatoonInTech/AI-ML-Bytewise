@@ -1,0 +1,10 @@
+virtualenv
+tensorflow
+scikit-learn
+numpy
+pandas
+matplotlib
+nltk
+seaborn
+os
+transformers
